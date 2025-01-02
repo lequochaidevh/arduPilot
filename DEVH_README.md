@@ -40,7 +40,6 @@ It's possible to get a list of supported boards on ArduPilot with the command be
 
 ## FLASHING
 
-
 https://ardupilot.org/copter/docs/common-loading-firmware-onto-chibios-only-boards.html
 
 
